@@ -36,3 +36,6 @@ Utilizing the Murder Accountability Project data set, we will analyze for patter
     - Nick G: questions 3 and 4
     - Alli W: questions 2 and 6
 
+## Datasets to Be Used
+- Murder Accountability Project: http://www.murderdata.org/p/data-docs.html
+    - Specifically, we will use the CSV file called SHR76_17.csv that is in the repository (in the ZIP file called SHR76_17.csv.zip).
