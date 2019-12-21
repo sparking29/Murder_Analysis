@@ -13,16 +13,16 @@ Utilizing the Murder Accountability Project data set, we will analyze for patter
 
 ## Research Questions to Answer
 1. What is the correlation between weapons used and the following?
-    a. Location
-    b. Race
-    c. Age
+    - Location
+    - Race
+    - Age
 2. What is the correlation between relationship type and type of murder committed.
 3. How does the rate of interracial murder compare to that of cross-racial murder?
 4. How do the rates of gendered murder compare?
-    a. Male to male
-    b. Male to female
-    c. Female to male
-    d. Female to female
+    - Male to male
+    - Male to female
+    - Female to male
+    - Female to female
 5. How do drugs and alcohol influence murder? Does it increase the rate?
 6. How often is rape involved in murder cases? Does race and location have any effects on the rate of rape-murder cases? Have there been any common weapons used in rape cases?
 7. What is the rate of unsolved murder over time and location?
@@ -31,8 +31,8 @@ Utilizing the Murder Accountability Project data set, we will analyze for patter
 ## Rough Breakdown of Tasks
 1. Scrub dataset
 2. Break out data tasks:
-    a. Sarah - questions 1 and 7
-    b. Nick M - questions 5 and 8
-    c. Nick G - questions 3 and 4
-    d. Alli W - questions 2 and 6
+    - Sarah: questions 1 and 7
+    - Nick M: questions 5 and 8
+    - Nick G: questions 3 and 4
+    - Alli W: questions 2 and 6
 
